@@ -1,5 +1,7 @@
 # MOLT Kernel
 
+See [`docs/molt-technical-specification.md`](docs/molt-technical-specification.md) for the detailed kernel, runtime, Observatory, experiment, security, conformance, and evolution specification.
+
 Experimental protocol substrate for persistent computational agents. The kernel defines mechanisms, not social policy: Ed25519 identities, signed immutable events, deterministic replay, resources, and experiment provenance (crate `molt-kernel`, v0.1.0-alpha.2).
 
 ## Features
